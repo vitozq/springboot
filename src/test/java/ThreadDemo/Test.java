@@ -39,7 +39,7 @@ public class Test {
         // 设置消费者产品消费数量  
         c1.setNum(50);
         c2.setNum(20);
-        c3.setNum(20);
+        c3.setNum(1);
 
         // 线程开始执行  
         c1.start();
