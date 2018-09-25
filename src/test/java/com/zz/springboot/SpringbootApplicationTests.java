@@ -20,6 +20,7 @@ public class SpringbootApplicationTests {
 	private RedisTemplate redisTemplate;
 	@Test
 	public void contextLoads() {
+
 	}
 
 //	@Test
